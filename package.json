@@ -1,6 +1,6 @@
 {
   "name": "kio-message",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/kioyang/kio-message.git",
   "author": "kioyang <1421104933@qq.com>",
