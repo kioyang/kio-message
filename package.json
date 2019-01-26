@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/kioyang/kio-message.git",
-  "directories": {
-    "lib": "lib"
-  },
   "author": "kioyang <1421104933@qq.com>",
   "license": "MIT",
   "keywords": [
